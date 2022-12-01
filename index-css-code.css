@@ -1,0 +1,78 @@
+h2 {
+    color: #226b68;
+}
+
+h4 {
+    color: #226b68;
+}
+
+p {
+    color: #226b68;
+}
+
+a {
+    color: #84a729;
+}
+
+button {
+    background-color: #007175;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+ /* Safari */;
+}
+
+button:hover {
+    background-color: #80a492;
+}
+
+code {
+    color: #cb523e;
+}
+
+h1 {
+    color: #003d74;
+}
+
+div {
+    border-radius: 10px;
+    background-color: #bed2bb;
+    transition: all 2s;
+    -webkit-transition: all 2s;
+ /* Safari */;
+}
+
+div:hover {
+    background-color: #c0d09d;
+}
+
+body {
+    background-color: rgba(125, 146, 159,0.25);
+    transition: all 2s;
+    -webkit-transition: all 2s;
+ /* Safari */;
+}
+
+body:hover {
+    background-color: rgba(125, 146, 159,0.5);
+}
+
+@font-face {
+    font-family: m;
+				src: url(http://43.139.175.183/file/2/SourceCodePro-Black.ttf);
+}
+
+code {
+    font-family: m;
+    background-color: #f5f3f2;
+    color: #e18a3b;
+}
