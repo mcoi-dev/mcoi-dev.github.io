@@ -10,6 +10,6 @@
 
 # We will write some interesting websites in html5, css3, and javascript in this project. You can give us suggestions with issues, or watch our code learning website make it!
 
-# 网址：MineCraftOI.github.io/MCOI
+# 网址：mcoi-dev.github.io/
 
-# Website: MineCraftOI.github.io/MCOI
+# Website: mcoi-dev.github.io/
